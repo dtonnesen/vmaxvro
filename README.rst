@@ -17,7 +17,7 @@ This plugin/workflows support Unisphere version 8.4 onwards. It supports VMAX3 a
 
 INSTALLATION/DOCUMENTATION
 
-Please see the VMAX_Plugin_for_VMware_vRealize_Orchestrator_User_Guide.docx in this respository.
+Please see the VMAX_Plugin_for_VMware_vRealize_Orchestrator_User_Guide.docx in this repository.
 
 ADDITIONAL DOCUMENTATION
 
