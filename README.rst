@@ -13,7 +13,8 @@ Initial creation.
 
 WHAT'S SUPPORTED BY THE PLUGIN/WORKFLOWS
 
-This plugin/workflows support Unisphere version 8.4 onwards. It supports VMAX3 and VMAX All-Flash.
+This plugin/workflows support Unisphere version 8.4 onwards. It supports VMAX3 and VMAX All-Flash and requires vCenter
+6.0 or 6.5.
 
 INSTALLATION/DOCUMENTATION
 
