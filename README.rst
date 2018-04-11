@@ -21,7 +21,8 @@ Please see the VMAX_Plugin_for_VMware_vRealize_Orchestrator_User_Guide.pdf in th
 
 ADDITIONAL DOCUMENTATION
 
-Some useful information can be found on Drew Tonnesen's blog https://drewtonnesen.wordpress.com/.
+Some useful information can be found on Drew Tonnesen's blog https://drewtonnesen.wordpress.com/. An introduction to 
+this repository can be found in this post:  https://drewtonnesen.wordpress.com/2018/04/10/vmax-plugin-for-vro/.
 
 FUTURE
 
