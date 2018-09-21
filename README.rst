@@ -12,7 +12,7 @@ Initial creation. This plugin/workflows support Unisphere version 8.4 and vRO 7.
 
 VERSION 2 (Plugin version 1.0.0.12 o11nplugin-vroplugin.dar)
 
-Add support for vRO/vRA 7.4, Unisphere 9.0, and PowerMax
+Add support for vRO/vRA 7.4, Unisphere 9.0, and PowerMax. Note that all ancillary files are still based on VERSION 1, but they are unnecessary for the operations of the plugin.
 
 WHAT'S SUPPORTED BY THE PLUGIN/WORKFLOWS
 
