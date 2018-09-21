@@ -6,11 +6,11 @@ NOTE
 
 This repository contains the VMAX plugin and workflows.
 
-VERSION 1 (Plugin version 1.0.0.1)
+VERSION 1 (Plugin version 1.0.0.1 o11nplugin-vroplugin.vmoapp)
 
 Initial creation. This plugin/workflows support Unisphere version 8.4 and vRO 7.2 and 7.3. It supports VMAX3 and VMAX All-Flash and requires vCenter 6.0 or 6.5.
 
-VERSION 2 (Plugin version 1.0.0.12)
+VERSION 2 (Plugin version 1.0.0.12 o11nplugin-vroplugin.dar)
 
 Add support for vRO/vRA 7.4, Unisphere 9.0, and PowerMax
 
