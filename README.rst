@@ -16,7 +16,7 @@ Add support for vRO/vRA 7.4, Unisphere 9.0, and PowerMax. Note that all ancillar
 
 WHAT'S SUPPORTED BY THE PLUGIN/WORKFLOWS
 
-This plugin/workflows support Unisphere version 8.4, 9.0 and vRO 7.2, 7.3, and 7.4. It supports VMAX3, VMAX All-Flash, and PowerMax and requires vCenter 6.0, 6.5 or 6.7.
+This plugin/workflows support Unisphere version 8.4, 9.0 and vRO 7.2, 7.3, 7.4 and 7.5. It supports VMAX3, VMAX All-Flash, and PowerMax and requires vCenter 6.0, 6.5 or 6.7.
 
 INSTALLATION/DOCUMENTATION
 
@@ -24,7 +24,7 @@ Please see the VMAX_Plugin_for_VMware_vRealize_Orchestrator_User_Guide.pdf in th
 
 ADDITIONAL DOCUMENTATION
 
-Some useful information can be found on Drew Tonnesen's blog https://drewtonnesen.wordpress.com/. An introduction to 
+Some useful information can be found on Drew Tonnesen's blog https://drewtonnesen.wordpress.com/?s=vro. An introduction to 
 this repository can be found in this post:  https://drewtonnesen.wordpress.com/2018/04/10/vmax-plugin-for-vro/.
 
 FUTURE
